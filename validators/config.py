@@ -1,9 +1,7 @@
 """
 Файл настроек для валидаторов входа и выхода
 """
-
 import os
-import pandas as pd
 
 ALLOWED_EXCEL_EXTENSIONS = [
     ".XLSX",
